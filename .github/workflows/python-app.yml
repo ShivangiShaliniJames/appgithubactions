@@ -28,4 +28,5 @@ jobs:
                 pip install -r requirements.txt
             # Step 4: Run tests
             - name: Run tests
-              run: pytest
+              run: pytest 8.3.4
+             
